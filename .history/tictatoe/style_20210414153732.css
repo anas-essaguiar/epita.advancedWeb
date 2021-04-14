@@ -37,7 +37,5 @@
     transform: translate(-50%, -50%);
   }
   
-  .col:hover {
-	background-color: grey;
-}
+  .left{float:left;width:100px;background-color: gray; }
   

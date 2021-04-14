@@ -5,21 +5,6 @@
     height: 200px;
 }
 
-#players {
-	display: flex;
-	width: 50%;
-	margin: auto;
-}
-
-.player {
-	width: 50%;
-	text-align: center;
-	font-size: 30px;
-}
-
-.player.active {
-	font-weight: bold;
-}
 
 #table1 {
     border-collapse: collapse;
@@ -37,7 +22,5 @@
     transform: translate(-50%, -50%);
   }
   
-  .col:hover {
-	background-color: grey;
-}
+  .left{float:left;width:100px;background-color: gray; }
   
