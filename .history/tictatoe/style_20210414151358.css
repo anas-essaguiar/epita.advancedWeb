@@ -1,0 +1,27 @@
+
+.col{
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+ div{
+     text-align: center;
+ }
+#table1 {
+    border-collapse: collapse;
+    border-style: hidden;
+    color: white;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+  }
+  #container{width:100%;background-color: gray;}
+ 
+  

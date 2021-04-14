@@ -1,0 +1,28 @@
+body{
+background-color: brown;
+}
+.col{
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+  }
+  table td {
+    border: 5px solid black;
+  }
+#table1 {
+    background: navy;
+    color: white;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+  }

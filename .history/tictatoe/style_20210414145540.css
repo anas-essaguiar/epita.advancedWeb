@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+background-color: brown;
+}
+.col{
+    border: 1px solid red;
+}
+#table1 {
+    background: navy;
+    color: white;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
