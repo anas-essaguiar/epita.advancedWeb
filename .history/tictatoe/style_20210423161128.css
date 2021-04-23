@@ -39,11 +39,14 @@ body {
 	color: red;
 }
 
-#table_game {
-	border-collapse: collapse;
-    margin: 50px auto;
-}
 
+
+.col {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+}
 
 .col:hover {
 	background: #E3DCCC;

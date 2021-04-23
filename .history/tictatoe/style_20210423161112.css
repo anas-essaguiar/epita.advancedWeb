@@ -15,6 +15,7 @@ body {
 }
 
 
+
 #table1 {
     border-collapse: collapse;
     border-style: hidden;
@@ -44,6 +45,12 @@ body {
     margin: 50px auto;
 }
 
+.col {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+}
 
 .col:hover {
 	background: #E3DCCC;

@@ -1,0 +1,43 @@
+body {
+    font: normal 16px comic sans ms;
+    text-align: center;
+  }
+.col{
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+#players {
+	display: flex;
+	width: 50%;
+	margin: auto;
+}
+#scoreboard .score {
+    text-align: center;
+    font-size: 30px
+  }
+  
+  #scoreboard .score#player1 {
+    color: #ED676B;
+  }
+  
+  #scoreboard .score#player2 {
+    color: #23916B;
+  }
+
+
+
+#table1 {
+    border-collapse: collapse;
+    border-style: hidden;
+    color: black;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
+
+  
+  .col:hover {
+	background-color: grey;
+}
+  
